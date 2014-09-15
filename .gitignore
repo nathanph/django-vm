@@ -1,0 +1,18 @@
+# Virtual machine
+.vagrant
+
+# Chef lockfile
+Cheffile.lock
+
+# Librarian-Chef
+/cookbooks*
+/tmp
+
+
+
+# Bundler
+bin/*
+.bundle/*
+
+.kitchen/
+.kitchen.local.yml
